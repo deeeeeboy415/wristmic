@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WristMic</string>
+    <string name="button_service_name">WristMic button</string>
+    <string name="button_service_desc">Lets the Quick button open WristMic for push-to-talk from any screen. It does not read the screen or your button presses.</string>
+</resources>

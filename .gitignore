@@ -1,0 +1,18 @@
+# Pairing key: made on the first run, private to each PC
+wristmic_config.json
+
+# Signing keys
+*.keystore
+*.jks
+
+# Build output
+watch/build/
+*.apk
+*.idsig
+icon-preview.png
+out/
+
+# Python and logs
+__pycache__/
+*.pyc
+receiver.log
